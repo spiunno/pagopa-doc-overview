@@ -35,7 +35,7 @@ Il lavoro è suddiviso in quattro sezioni: nella prima sono indicate le caratter
 Creditori e i prestatori di servizi di pagamento; nella terza sono esplicitati gli aspetti tecnici di dettaglio necessari per consentire l’interazione tra il Nodo dei Pagamenti-SPC ed i soggetti aderenti (Enti Creditori e prestatori di servizi di pagamento). Il documento si completa con la Sezione IV ”Ruoli e responsabilità nell’utilizzo del Nodo dei Pagamenti-SPC”.
 
 Premessa alla Versione 2.0
---------
+--------------------------------
 
 La presente versione delle rappresenta il frutto di recenti scelte strategiche per dare un crescente impulso alla diffusione del sistema pagoPA.
 
@@ -65,7 +65,7 @@ AgID infine si riserva la possibilità di pubblicare ulteriori documenti, monogr
 Gli emendamenti a una versione del documento sono eventualmente recepiti nella versione successiva.
 
 Definizioni e Acronimi
---------
+------------------------
 
 +--------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Definizione acronimo                 | Descrizione                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
