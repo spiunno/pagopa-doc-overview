@@ -220,7 +220,7 @@ o la firma elettronica qualificata dello stesso da parte del prestatore di servi
 
 Fatta la precisazione sopra esposta, resta ferma la facoltà in capo all’Ente Creditore di richiedere al PSP di sottoscrivere con firma digitale o firma elettronica qualificata il documento Ricevuta Telematica, indicando tale vincolo in un apposito elemento della RPT.
 
-**NB:Tale possibilità è deprecata e non potrà essere attuata dagli Enti Creditori aderenti al sistema pagoPA durante la vigenza delle presenti specifiche. **
+**NB:Tale possibilità è deprecata e non potrà essere attuata dagli Enti Creditori aderenti al sistema pagoPA durante la vigenza delle presenti specifiche.**
 
 **Gli EC che adottano tale modalità dovranno predisporre un piano in vista della dismissione.**
 
@@ -269,3 +269,6 @@ Considerato che la quietanza, fornita dall’Ente Creditore all’utilizzatore f
 
 .. [2]
    Aggiornato con DM 20 marzo 2013, recante "Modifiche all'allegato A del decreto 8 luglio 2005 del Ministro per l'innovazione e le tecnologie, recante: «Requisiti tecnici e i diversi livelli per l'accessibilità agli strumenti informatici»" pubblicato in GU Serie Generale n.217 del 16-9-2013
+
+.. [3]
+   Vedi il paragrafo “Definizioni e Acronimi” ad inizio documento
