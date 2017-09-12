@@ -28,7 +28,7 @@ Infine, il Decreto Legislativo 26 agosto 2016, n. 179, ha riformulato l’artico
 
 Inoltre, sempre il Decreto Legislativo 26 agosto 2016, n. 179 ha previsto all’articolo 63 del CAD la nomina da parte del Presidente del Consiglio dei ministri di un Commissario straordinario per l’attuazione dell’Agenda digitale, che ha tra i propri obiettivi quello della diffusione del Sistema pagoPA, quale sistema nazionale pubblico per i pagamenti elettronici.
 
-Il presente documento denominato “” rappresenta l’\ **Allegato B** alle *“Linee guida per l'effettuazione dei pagamenti a favore delle pubbliche amministrazioni e dei gestori di pubblici servizi”* (di seguito, Linee guida) e deve essere utilizzato in combinazione con il documento *"Specifiche attuative dei codici identificativi di versamento,
+Il presente documento denominato “Overview PagoPA” rappresenta l’\ **Allegato B** alle *“Linee guida per l'effettuazione dei pagamenti a favore delle pubbliche amministrazioni e dei gestori di pubblici servizi”* (di seguito, Linee guida) e deve essere utilizzato in combinazione con il documento *"Specifiche attuative dei codici identificativi di versamento,
 riversamento e rendicontazione"* (**Allegato A)**, nonché con le stesse Linee guida; documenti ai quali si rimanda per tutte le voci e gli argomenti non specificatamente qui indicati.
 
 Il lavoro è suddiviso in quattro sezioni: nella prima sono indicate le caratteristiche generali del sistema dei pagamenti a favore degli Enti Creditori (pubbliche amministrazioni, società a controllo pubblico e gestori di pubblici servizi); nella seconda sezione sono esplicitati i protocolli applicativi per lo scambio delle informazioni tra gli Enti
