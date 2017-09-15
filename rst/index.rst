@@ -1,10 +1,9 @@
-Overview PagoPA
+Overview PagoPA (BOZZA)
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. toctree::
    :maxdepth: 3
    :numbered:
-   :hidden:
 
 PARTE UNO - INTRODUZIONE
 :::::::::::::::::::::::::::::::::
@@ -12,7 +11,7 @@ PARTE UNO - INTRODUZIONE
 .. toctree::
    :maxdepth: 3
 
-   introduzione.rst
+  introduzione.rst
 
 PARTE DUE - REGOLE E FUNZIONAMENTO DEL SISTEMA
 ::::::::::::::::::::::::::::::::::::::::::::::::
@@ -20,7 +19,7 @@ PARTE DUE - REGOLE E FUNZIONAMENTO DEL SISTEMA
 .. toctree::
    :maxdepth: 3
 
-   regole_funzionamento.rst
+  regole_funzionamento.rst
 
 PARTE TRE - MODELLO DI FUNZIONAMENTO
 :::::::::::::::::::::::::::::::::::::::::
@@ -28,7 +27,7 @@ PARTE TRE - MODELLO DI FUNZIONAMENTO
 .. toctree::
    :maxdepth: 3
 
-   modello_funzionamento.rst
+  modello_funzionamento.rst
 
 PARTE QUATTRO - RUOLI E RESPONSABILITÀ DEGLI ADERENTI
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -36,7 +35,7 @@ PARTE QUATTRO - RUOLI E RESPONSABILITÀ DEGLI ADERENTI
 .. toctree::
    :maxdepth: 3
 
-   ruoli_aderenti.rst
+  ruoli_aderenti.rst
 
 PARTE CINQUE - ADEMPIMENTI DURANTE L'EROGAZIONE DEL SERVIZIO
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -44,7 +43,7 @@ PARTE CINQUE - ADEMPIMENTI DURANTE L'EROGAZIONE DEL SERVIZIO
 .. toctree::
    :maxdepth: 3
 
-   adempimenti.rst
+  adempimenti.rst
 
 PARTE SEI - RESPONSABILITÀ
 :::::::::::::::::::::::::::::::::
@@ -52,4 +51,4 @@ PARTE SEI - RESPONSABILITÀ
 .. toctree::
    :maxdepth: 3
 
-   responsabilita.rst
+  responsabilita.rst
