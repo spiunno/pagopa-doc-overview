@@ -1,7 +1,7 @@
 Introduzione
 ================================================================
 
-Il Sistema pagoPA è stato realizzato dall’Agenzia per l’Italia Digitale (AgID) in attuazione dell’art. 5 del CAD.
+Il Sistema pagoPA è stato realizzato dall’`Agenzia per l’Italia Digitale (AgID) <http://www.agid.gov.it/>`_ in attuazione dell’art. 5 del CAD.
 
 In una prima versione, l’articolo 5 del CAD stabiliva solamente che gli enti di cui all’articolo 2 del CAD erano tenuti nei rapporti con l’utenza ad accettare pagamenti anche con l’uso delle tecnologie dell’informazione e della comunicazione, senza specificarne le relative modalità.
 
